@@ -6,3 +6,6 @@ $(document).ready(function(){
 $('.popover-dismiss').popover({
   trigger: 'focus'
 });
+$(document).ready(function(){
+    $("#myModal").modal('show');
+});

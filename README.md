@@ -29,8 +29,10 @@ To create this row, use the `<th></th>` and `<td></td>`tags like so:
   <td>Fri</td>
 </th>
 ```
-The `<th>` tag creates a row which is emphasised as the header row. You can edit the CSS for this if you want.
+The `<th>` tag creates a row which is emphasised as the header row. You can edit the CSS for this if you want. the `<td>` tag specifies a cell in the 'table'
 	
-	I used 5 days since 7 made the exams look quite cramped on smaller devices and will continue with this through this guide but feel free to adjust things to your liking.
+I used 5 days since 7 made the exams look quite cramped on smaller devices and will continue with this through this guide but feel free to adjust things to your liking.
+	
+
 
 
